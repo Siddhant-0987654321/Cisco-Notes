@@ -23,4 +23,4 @@ To get started with these practical files, follow the steps below:
 
 ## Contributions
 
-Contributions to this repository are welcome! If you have additional practical files that you believe would be helpful for others, please open a pull request. Make sure to include a brief description of the practical file and its intended focus.
+Contributions to this repository are welcome!
